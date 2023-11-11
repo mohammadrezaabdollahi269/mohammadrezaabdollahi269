@@ -1,0 +1,3 @@
+thislist = ["mohammed ", "ali", "yasin"]
+thislist[1] = "hamed"
+print(thislist)
